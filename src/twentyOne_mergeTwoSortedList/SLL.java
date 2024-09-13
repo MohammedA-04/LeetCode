@@ -1,2 +1,4 @@
-package twentyOne_mergeTwoSortedList;public class SLL {
+package twentyOne_mergeTwoSortedList;
+
+public class SLL {
 }

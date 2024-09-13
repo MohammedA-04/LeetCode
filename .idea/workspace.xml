@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1621f17-abff-4edd-9740-9d2ea039f1aa" name="Changes" comment="" />
+    <list default="true" id="b1621f17-abff-4edd-9740-9d2ea039f1aa" name="Changes" comment="Test Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_RESTAPI/RestApiTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_RESTAPI/Transcript.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSolution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSolution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/longestCommonPrefix/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/longestCommonPrefix/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/romanToInt/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/romanToInt/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twentyOne_mergeTwoSortedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twentyOne_mergeTwoSortedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twentyOne_mergeTwoSortedList/SLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twentyOne_mergeTwoSortedList/SLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twenty_validParentheses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twenty_validParentheses/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,16 +43,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Debug",
+    "Application.Solution.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Moham/OneDrive - University of Huddersfield/Year 2/LeetCode",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.13422817",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
@@ -52,6 +65,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-36550cda" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
       </set>
     </attachedChunks>
   </component>
@@ -65,6 +79,36 @@
       <updated>1701630754161</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/twentyOne_mergeTwoSortedList/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/twentyOne_mergeTwoSortedList/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/twenty_validParentheses/Main.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/twenty_validParentheses/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
