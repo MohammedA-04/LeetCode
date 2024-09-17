@@ -5,11 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1621f17-abff-4edd-9740-9d2ea039f1aa" name="Changes" comment="Test Commit">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers_2/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers_2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers_2/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstringNoDupes_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstringNoDupes_3/V2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers_2/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers_2/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_RESTAPI/RestApiTutorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_RESTAPI/RestApiTutorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_RESTAPI/Transcript.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_RESTAPI/Transcript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Animal$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Animal$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Animal$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Animal$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/AnimalPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/AnimalPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/GenericExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/GenericExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ignore_tutorials/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSolution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSolution/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/longestCommonPrefix/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/longestCommonPrefix/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/matrix/matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/matrix/matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/reverseString_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/reverseString_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/romanToInt/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/romanToInt/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/twentyOne_mergeTwoSortedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/twentyOne_mergeTwoSortedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/twentyOne_mergeTwoSortedList/SLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/twentyOne_mergeTwoSortedList/SLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/twenty_validParentheses/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/twenty_validParentheses/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,26 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Moham/OneDrive - University of Huddersfield/Year 2/LeetCode&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.13422817&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Moham/OneDrive - University of Huddersfield/Year 2/LeetCode",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.13422817",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
